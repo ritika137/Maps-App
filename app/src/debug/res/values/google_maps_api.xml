@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=9F:2A:43:9A:3A:3B:86:2B:40:0A:AD:7F:D7:42:96:1C:2C:10:02:5B%3Bcom.example.ritika.onlylocation
+
+    You can also add your credentials to an existing key, using this line:
+    9F:2A:43:9A:3A:3B:86:2B:40:0A:AD:7F:D7:42:96:1C:2C:10:02:5B;com.example.ritika.onlylocation
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDj7ZVvayjGFTI3gezMtRb5csQTe9YoEkU</string>
+</resources>
